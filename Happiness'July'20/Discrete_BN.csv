@@ -1,0 +1,551 @@
+Country name,year,Life Ladder,Log GDP per capita,Social support,Healthy life expectancy at birth,Freedom to make life choices,Generosity,Perceptions of corruption,Positive affect,Negative affect,Confidence in national government,Democratic Quality,Delivery Quality,Standard deviation of ladder by country-year,Standard deviation/Mean of ladder by country-year,"GINI index (World Bank estimate), average 2000-2017, unbalanced panel","gini of household income reported in Gallup, by wp5-year"
+Afghanistan,2016,low,low,low,low,low,medium,high,low,medium,low,low,low,1.7962194681167605,0.4256274104118347,medium,medium
+Afghanistan,2017,low,low,low,low,low,low,high,low,high,low,low,low,1.4540507793426514,0.5462827682495117,medium,low
+Afghanistan,2018,low,low,low,low,low,medium,high,low,high,low,low,low,1.40834379196167,0.5227116942405701,medium,low
+Afghanistan,2019,low,low,low,low,low,low,high,low,high,low,low,low,1.4129045009613037,0.5948841571807861,medium,low
+Albania,2016,low,medium,low,medium,medium,medium,high,medium,medium,low,medium,medium,2.6466681957244877,0.5867012143135071,low,medium
+Albania,2017,low,medium,low,medium,medium,medium,high,medium,medium,medium,medium,medium,2.6821048259735107,0.5780960917472839,low,medium
+Albania,2018,medium,medium,low,medium,high,medium,high,medium,medium,medium,medium,medium,2.640530824661255,0.5276415348052979,low,medium
+Albania,2019,medium,medium,low,medium,medium,low,high,medium,medium,low,medium,medium,2.6137661933898926,0.5232431888580322,low,medium
+Algeria,2016,medium,medium,medium,medium,low,low,medium,medium,high,medium,low,low,2.114553451538086,0.3959204852581024,low,high
+Algeria,2017,medium,medium,medium,medium,low,low,medium,medium,medium,medium,medium,low,2.039764642715454,0.3886071145534515,low,medium
+Algeria,2018,medium,medium,medium,medium,low,low,medium,low,medium,medium,medium,low,1.9739428758621216,0.3914156556129456,low,high
+Algeria,2019,low,medium,medium,medium,low,medium,medium,low,low,medium,low,low,1.80437433719635,0.3802984356880188,low,low
+Argentina,2016,high,medium,high,medium,high,low,high,high,medium,medium,high,medium,2.1271085739135738,0.330953061580658,high,low
+Argentina,2017,medium,medium,high,medium,high,low,high,high,medium,low,high,medium,2.4093289375305176,0.39893975853919983,high,medium
+Argentina,2018,medium,medium,high,medium,high,low,high,high,medium,low,medium,medium,2.4725587368011475,0.4268333315849304,high,medium
+Argentina,2019,medium,medium,high,medium,high,low,high,high,medium,low,high,medium,2.258975982666016,0.3712025880813599,high,medium
+Armenia,2016,low,medium,low,medium,low,low,high,low,high,low,medium,medium,2.126364231109619,0.4915912747383118,low,low
+Armenia,2017,low,medium,low,medium,low,low,high,medium,high,low,medium,medium,2.325378894805908,0.5423325300216675,low,medium
+Armenia,2018,medium,medium,medium,medium,medium,low,medium,low,high,high,medium,medium,2.1021106243133545,0.4152359664440155,low,medium
+Australia,2016,high,high,high,high,high,high,low,high,low,medium,high,high,1.6988278627395632,0.2343184947967529,low,medium
+Australia,2017,high,high,high,high,high,high,low,high,low,medium,high,high,1.7456989288330078,0.24055255949497226,low,medium
+Australia,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.7502825260162354,0.2438740581274033,low,medium
+Australia,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6950342655181885,0.23431509733200076,low,high
+Austria,2016,high,high,high,high,high,medium,medium,high,low,medium,high,high,1.7044001817703247,0.2418250292539597,low,low
+Austria,2017,high,high,high,high,high,medium,medium,high,low,medium,high,high,1.5610619783401491,0.21402800083160398,low,low
+Austria,2018,high,high,high,high,high,medium,medium,high,low,medium,high,high,1.5519400835037231,0.2098350077867508,low,low
+Austria,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.5487314462661743,0.2152402698993683,low,low
+Azerbaijan,2016,medium,medium,medium,medium,medium,low,medium,low,low,high,low,medium,1.6131815910339355,0.30415037274360657,low,low
+Azerbaijan,2017,medium,medium,medium,medium,medium,low,medium,low,low,high,low,medium,1.6737568378448486,0.32485753297805786,low,low
+Azerbaijan,2018,medium,medium,medium,medium,medium,low,medium,low,low,high,low,low,1.8633021116256716,0.3605463802814484,low,low
+Azerbaijan,2019,medium,medium,high,medium,high,low,low,medium,low,high,low,medium,1.354501485824585,0.26182091236114496,low,low
+Bangladesh,2016,low,low,low,medium,high,medium,medium,low,low,high,medium,low,1.9825828075408936,0.43514519929885853,low,medium
+Bangladesh,2017,low,low,medium,medium,high,medium,medium,low,low,high,low,low,1.865365982055664,0.4328225255012512,low,medium
+Bangladesh,2018,low,low,low,medium,high,medium,medium,low,high,high,medium,low,2.1593031883239746,0.4799286425113678,low,low
+Bangladesh,2019,medium,low,low,medium,high,medium,medium,low,high,high,medium,low,2.88346004486084,0.5638126134872437,low,medium
+Belarus,2016,medium,medium,high,medium,low,low,medium,low,low,medium,medium,low,1.777631163597107,0.34331125020980835,low,low
+Belarus,2017,medium,medium,high,medium,low,low,medium,low,low,medium,medium,low,1.662563681602478,0.29940375685691833,low,low
+Belarus,2018,medium,medium,high,medium,low,low,medium,low,low,medium,medium,low,1.6901071071624756,0.3229234516620636,low,low
+Belarus,2019,medium,medium,high,medium,low,low,medium,low,low,medium,medium,low,1.9215387105941768,0.3300788700580597,low,low
+Belgium,2016,high,high,high,high,high,medium,low,high,medium,medium,high,high,1.4970237016677856,0.2154320627450943,low,low
+Belgium,2017,high,high,high,high,high,medium,medium,high,low,medium,high,high,1.510013222694397,0.2179470956325531,low,low
+Belgium,2018,high,high,high,high,medium,low,medium,high,low,medium,high,high,1.5480906963348389,0.22461579740047452,low,low
+Belgium,2019,high,high,high,high,medium,low,medium,medium,low,low,high,high,1.6050792932510376,0.237012192606926,low,low
+Benin,2016,low,low,low,low,medium,medium,high,low,high,medium,medium,low,2.191754102706909,0.5469325184822083,medium,medium
+Benin,2017,medium,low,low,low,medium,medium,medium,low,high,medium,medium,low,2.99812650680542,0.6177652478218079,medium,high
+Benin,2018,medium,low,low,low,medium,medium,medium,medium,high,medium,medium,low,3.313297986984253,0.5693120956420898,medium,high
+Benin,2019,medium,low,low,low,medium,medium,medium,medium,high,high,medium,low,3.299245595932007,0.6629835963249207,medium,medium
+Bolivia,2016,medium,medium,medium,medium,high,medium,high,high,high,low,medium,low,2.0505731105804443,0.3554023206233978,high,medium
+Bolivia,2017,medium,medium,medium,medium,high,low,high,medium,high,medium,medium,low,2.2504842281341557,0.3982768356800079,high,medium
+Bolivia,2018,medium,medium,medium,medium,high,medium,high,medium,high,low,medium,low,2.2045419216156006,0.3726573586463928,high,medium
+Bolivia,2019,medium,medium,medium,medium,high,medium,high,high,high,low,medium,low,2.2516534328460693,0.3968181312084198,high,medium
+Bosnia and Herzegovina,2016,medium,medium,medium,medium,low,medium,high,medium,medium,low,medium,medium,2.2160487174987797,0.4277371764183045,low,medium
+Bosnia and Herzegovina,2017,medium,medium,medium,medium,low,medium,high,low,medium,low,medium,medium,2.2810065746307373,0.448143482208252,low,medium
+Bosnia and Herzegovina,2018,medium,medium,medium,medium,low,medium,high,medium,medium,low,medium,medium,1.9877502918243408,0.3376277983188629,low,medium
+Bosnia and Herzegovina,2019,medium,medium,high,medium,medium,medium,high,medium,low,low,medium,medium,2.2574050426483154,0.3752633333206177,low,low
+Botswana,2016,low,medium,medium,low,high,low,medium,medium,low,high,high,medium,2.685791492462158,0.7676022052764893,high,high
+Botswana,2017,low,medium,medium,low,high,low,medium,medium,medium,high,high,medium,2.6694254875183105,0.7616308331489563,high,high
+Botswana,2018,low,medium,medium,low,high,low,high,medium,medium,high,high,medium,2.637892484664917,0.7620958685874939,high,high
+Botswana,2019,low,medium,medium,low,high,low,high,medium,medium,high,high,medium,2.614710807800293,0.7532834410667419,high,high
+Brazil,2016,high,medium,high,medium,medium,low,high,high,medium,low,medium,medium,2.5180392265319824,0.39499786496162415,high,medium
+Brazil,2017,high,medium,high,medium,medium,low,high,medium,medium,low,medium,medium,2.530506134033203,0.3995791077613831,high,medium
+Brazil,2018,high,medium,high,medium,medium,low,medium,high,medium,low,medium,medium,2.637867212295532,0.4260863363742829,high,medium
+Brazil,2019,high,medium,high,medium,high,medium,medium,high,medium,low,medium,medium,2.4853222370147705,0.3852526545524597,high,high
+Bulgaria,2016,medium,medium,high,medium,medium,low,high,medium,low,low,medium,medium,1.9175925254821775,0.39639657735824585,medium,low
+Bulgaria,2017,medium,medium,high,medium,medium,low,high,low,low,low,high,medium,1.8523638248443604,0.3634293675422669,medium,low
+Bulgaria,2018,medium,medium,high,medium,medium,low,high,medium,low,low,high,medium,2.037506580352783,0.3996040523052216,medium,low
+Bulgaria,2019,medium,medium,high,medium,high,low,high,medium,low,low,high,medium,2.052162408828736,0.4017201364040375,medium,low
+Burkina Faso,2016,low,low,medium,low,low,medium,medium,low,medium,high,medium,medium,1.9667134284973145,0.4676377475261688,medium,medium
+Burkina Faso,2017,low,low,medium,low,low,medium,medium,low,medium,medium,medium,medium,2.19759202003479,0.4729166030883789,medium,medium
+Burkina Faso,2018,medium,low,low,low,medium,medium,medium,medium,medium,medium,medium,medium,2.6460697650909424,0.5370292067527771,medium,high
+Burkina Faso,2019,low,low,low,low,medium,medium,medium,medium,high,high,medium,medium,2.8427886962890625,0.5996314883232117,medium,medium
+Cambodia,2016,low,low,medium,medium,high,medium,high,high,high,high,medium,low,2.5605764389038086,0.5739582180976868,medium,medium
+Cambodia,2017,low,low,medium,medium,high,medium,high,high,high,high,medium,low,2.732651472091675,0.5958886742591858,medium,medium
+Cambodia,2018,medium,low,medium,medium,high,medium,high,high,high,high,medium,low,2.911452531814575,0.5684390664100647,medium,high
+Cambodia,2019,medium,low,medium,medium,high,medium,high,high,high,high,medium,low,2.8256046772003174,0.5653148889541626,medium,high
+Cameroon,2016,low,low,low,low,medium,medium,high,medium,high,medium,low,low,2.363250970840454,0.4906845986843109,medium,medium
+Cameroon,2017,medium,low,low,low,medium,medium,high,medium,high,medium,low,low,2.8152244091033936,0.5548277497291565,medium,medium
+Cameroon,2018,medium,low,low,low,high,medium,high,medium,medium,medium,low,low,2.9213135242462163,0.556362509727478,medium,medium
+Cameroon,2019,medium,low,low,low,medium,medium,high,medium,medium,medium,low,low,2.7359399795532227,0.5541999936103821,medium,medium
+Canada,2016,high,high,high,high,high,high,low,high,low,medium,high,high,1.7764630317687988,0.2452037036418915,low,high
+Canada,2017,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6033637523651123,0.21623630821704865,low,high
+Canada,2018,high,high,high,high,high,medium,low,high,medium,medium,high,high,1.7644574642181396,0.24590039253234866,low,medium
+Canada,2019,high,high,high,high,high,medium,low,high,medium,medium,high,high,1.7844544649124146,0.2510107159614563,low,medium
+Chad,2016,low,low,low,low,low,medium,high,low,high,medium,low,low,2.435532808303833,0.6044480204582214,medium,medium
+Chad,2017,low,low,low,low,low,medium,high,medium,high,medium,low,low,2.8809604644775386,0.6319369077682495,medium,medium
+Chad,2018,low,low,low,low,low,medium,medium,low,high,medium,low,low,3.107621431350708,0.6926875114440918,medium,high
+Chad,2019,low,low,low,low,low,medium,high,low,high,medium,low,low,3.137524127960205,0.7381021976470947,medium,high
+Chile,2016,high,high,medium,high,low,medium,high,high,medium,low,high,high,1.986255407333374,0.3019058108329773,high,medium
+Chile,2017,high,high,high,high,medium,medium,high,high,medium,low,high,high,2.1624202728271484,0.342148631811142,high,high
+Chile,2018,high,high,high,high,medium,medium,high,high,medium,low,high,high,2.1529984474182133,0.3345128297805786,high,medium
+Chile,2019,medium,high,high,high,low,low,high,high,medium,low,high,high,2.1155881881713867,0.35602474212646484,high,medium
+China,2016,medium,medium,medium,medium,high,low,medium,high,low,medium,low,medium,1.9963380098342896,0.3749022483825684,medium,medium
+China,2017,medium,medium,medium,medium,high,low,medium,high,low,medium,medium,medium,2.2716639041900635,0.4455062747001648,medium,high
+China,2018,medium,medium,medium,high,high,low,medium,high,low,medium,medium,medium,2.2628591060638428,0.4409798681735992,medium,medium
+China,2019,medium,medium,medium,high,high,low,medium,high,low,medium,medium,medium,2.2471437454223637,0.4368373453617096,medium,medium
+Colombia,2016,high,medium,high,medium,high,low,high,high,medium,low,medium,medium,2.568723440170288,0.4120694398880005,high,medium
+Colombia,2017,medium,medium,high,medium,high,low,high,high,medium,low,medium,medium,2.5448215007781982,0.41329872608184814,high,medium
+Colombia,2018,medium,medium,high,medium,high,low,high,high,medium,low,medium,medium,2.6826722621917725,0.4483440518379211,high,medium
+Colombia,2019,high,medium,high,medium,high,low,high,high,medium,low,medium,medium,2.704170227050781,0.4258336126804352,high,medium
+Congo (Brazzaville),2016,low,medium,low,low,medium,low,high,low,medium,medium,medium,low,2.6786000728607178,0.6502255797386169,high,medium
+Congo (Brazzaville),2017,medium,low,low,low,medium,low,medium,low,high,medium,medium,low,2.9068012237548833,0.595169186592102,high,medium
+Congo (Brazzaville),2018,medium,low,low,low,medium,low,medium,low,high,medium,medium,low,3.346595287322998,0.6095563769340515,high,high
+Congo (Brazzaville),2019,medium,low,low,low,medium,medium,medium,medium,high,medium,medium,low,3.3797605037689213,0.6483800411224365,high,medium
+Costa Rica,2016,high,medium,high,high,high,medium,high,high,medium,low,high,medium,2.1436471939086914,0.3004150688648224,high,medium
+Costa Rica,2017,high,medium,high,high,high,medium,medium,high,medium,low,high,medium,2.079983949661255,0.2878798246383667,high,medium
+Costa Rica,2018,high,medium,high,high,high,low,high,high,medium,medium,high,medium,2.14596962928772,0.3005107343196869,high,high
+Costa Rica,2019,high,medium,high,high,high,low,high,high,medium,low,high,medium,2.154904127120972,0.3079482018947601,high,medium
+Croatia,2016,medium,high,medium,medium,medium,medium,high,low,medium,low,high,medium,1.933725118637085,0.3569816648960113,low,low
+Croatia,2017,medium,high,medium,high,medium,low,high,medium,medium,low,high,medium,1.5708214044570925,0.2939870059490204,low,low
+Croatia,2018,medium,high,high,high,medium,low,high,low,medium,low,high,medium,1.7036806344985962,0.30773070454597473,low,low
+Croatia,2019,medium,high,high,high,medium,low,high,low,medium,low,high,medium,1.7105309963226318,0.3040542006492615,low,low
+Cyprus,2016,medium,high,medium,high,medium,medium,high,medium,medium,low,high,high,2.42055082321167,0.4177239239215851,low,medium
+Cyprus,2017,medium,high,medium,high,medium,medium,high,high,medium,low,high,high,2.369524955749512,0.3908784091472626,low,medium
+Cyprus,2018,high,high,medium,high,medium,medium,high,high,medium,low,high,high,2.12888503074646,0.3391865491867065,low,medium
+Cyprus,2019,medium,high,medium,high,medium,medium,high,high,medium,low,high,high,2.1098592281341557,0.3438026309013367,low,medium
+Czech Republic,2016,high,high,high,high,high,low,high,high,low,medium,high,high,1.6821707487106323,0.24974225461483,low,low
+Czech Republic,2017,high,high,high,high,high,low,high,medium,low,low,high,high,1.697134494781494,0.2499620765447617,low,low
+Czech Republic,2018,high,high,high,high,medium,low,high,medium,low,medium,high,high,1.674933671951294,0.23811405897140506,low,low
+Denmark,2016,high,high,high,high,high,medium,low,high,low,medium,high,high,1.611469864845276,0.21321992576122284,low,medium
+Denmark,2017,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6680742502212524,0.2196654826402664,low,high
+Denmark,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6510601043701172,0.2158591151237488,low,medium
+Denmark,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.4724513292312622,0.1914013624191284,low,medium
+Dominican Republic,2016,medium,medium,high,medium,high,medium,medium,high,medium,medium,medium,medium,3.112091541290283,0.5940581560134888,high,medium
+Dominican Republic,2017,medium,medium,high,medium,high,low,medium,medium,medium,medium,medium,medium,3.2408370971679688,0.5781837701797485,high,medium
+Dominican Republic,2018,medium,medium,high,medium,high,low,medium,medium,medium,medium,medium,medium,3.395453929901123,0.624943733215332,high,medium
+Dominican Republic,2019,medium,medium,high,medium,high,low,medium,high,medium,low,medium,medium,3.2190172672271733,0.5361242890357971,high,medium
+Ecuador,2016,medium,medium,medium,medium,high,medium,high,high,high,medium,medium,low,2.4262428283691406,0.3967406749725342,high,medium
+Ecuador,2017,medium,medium,medium,medium,high,low,medium,high,medium,medium,medium,low,2.6931753158569336,0.4611981809139252,high,medium
+Ecuador,2018,medium,medium,medium,medium,high,low,high,high,medium,low,medium,low,2.4857876300811768,0.4056435227394104,high,medium
+Ecuador,2019,medium,medium,medium,medium,high,low,high,high,high,low,medium,low,2.49181604385376,0.4289481341838837,high,medium
+Egypt,2016,low,medium,medium,medium,low,low,high,low,high,medium,low,low,2.0551702976226807,0.4510176181793213,low,low
+Egypt,2017,low,medium,low,medium,low,low,high,low,high,medium,low,low,2.289860725402832,0.5827590227127075,low,low
+Egypt,2018,low,medium,medium,medium,medium,low,high,low,medium,medium,low,low,2.0206060409545903,0.5044640898704529,low,low
+Egypt,2019,low,medium,medium,medium,medium,low,high,low,medium,medium,low,low,1.932219624519348,0.4464636743068695,low,low
+El Salvador,2016,medium,medium,medium,medium,medium,low,high,high,medium,low,medium,medium,2.59812593460083,0.4231596291065216,medium,medium
+El Salvador,2017,high,medium,medium,medium,medium,low,high,high,medium,low,medium,medium,2.4771559238433842,0.3907606303691864,medium,medium
+El Salvador,2018,high,medium,medium,medium,high,low,high,high,medium,low,medium,medium,2.661110639572144,0.426378071308136,medium,medium
+El Salvador,2019,high,medium,medium,medium,high,low,medium,high,medium,high,medium,medium,2.737006664276123,0.4240252077579498,medium,medium
+Estonia,2016,medium,high,high,medium,high,low,medium,medium,low,low,high,high,1.7530863285064695,0.3102985918521881,low,low
+Estonia,2017,medium,high,high,medium,high,low,medium,high,low,low,high,high,1.851839900016785,0.31184175610542303,low,medium
+Estonia,2018,medium,high,high,medium,high,low,medium,high,low,medium,high,high,1.7629237174987793,0.2894165515899658,low,low
+Estonia,2019,medium,high,high,medium,high,low,medium,high,low,low,high,high,1.8420811891555784,0.3052511513233185,low,low
+Ethiopia,2016,low,low,medium,low,medium,medium,medium,medium,medium,high,low,low,1.8089821338653564,0.4209040999412537,low,medium
+Ethiopia,2017,low,low,medium,low,medium,medium,medium,low,medium,high,low,low,1.8299158811569212,0.4377458691596985,low,medium
+Ethiopia,2018,low,low,medium,low,medium,medium,high,medium,medium,high,low,low,1.945811152458191,0.44432392716407776,low,medium
+Ethiopia,2019,low,low,medium,low,medium,medium,medium,medium,medium,high,low,low,2.309894323348999,0.563450038433075,low,medium
+Finland,2016,high,high,high,high,high,medium,low,high,low,medium,high,high,1.4790186882019043,0.19308732450008392,low,medium
+Finland,2017,high,high,high,high,high,medium,low,high,low,medium,high,high,1.416398286819458,0.1818634420633316,low,medium
+Finland,2018,high,high,high,high,high,low,low,high,low,medium,high,high,1.4256123304367063,0.18141929805278775,low,low
+Finland,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.4278105497360232,0.1835149973630905,low,medium
+France,2016,high,high,high,high,medium,low,medium,high,medium,low,high,high,1.8015296459198,0.2782195508480072,low,low
+France,2017,high,high,high,high,high,low,medium,high,low,low,high,high,1.6310644149780271,0.2458191066980362,low,low
+France,2018,high,high,high,high,high,low,medium,high,medium,low,high,high,1.5990493297576904,0.2398848533630371,low,low
+France,2019,high,high,high,high,high,low,medium,medium,low,low,high,high,1.6844309568405151,0.2517967820167541,low,medium
+Gabon,2016,medium,medium,medium,low,medium,low,high,medium,high,low,medium,low,2.214463710784912,0.4583137035369873,medium,medium
+Gabon,2017,low,medium,medium,low,low,low,high,medium,high,low,medium,low,2.457131147384644,0.5137880444526672,medium,high
+Gabon,2018,low,medium,medium,low,medium,low,high,medium,high,low,medium,low,2.62363862991333,0.5485330820083618,medium,medium
+Gabon,2019,medium,medium,medium,low,medium,low,high,medium,high,low,medium,low,2.616802453994751,0.5324772000312805,medium,medium
+Gambia,2017,low,low,low,low,medium,medium,medium,high,medium,high,medium,low,2.4802308082580566,0.6022990942001343,medium,medium
+Gambia,2018,medium,low,low,low,medium,high,medium,high,high,high,medium,low,3.158857583999634,0.6417704224586487,medium,high
+Gambia,2019,medium,low,low,low,medium,high,high,high,high,medium,medium,low,3.4521977901458736,0.6685606241226196,medium,medium
+Georgia,2016,low,medium,low,medium,low,low,medium,low,low,low,medium,medium,1.960208535194397,0.4406560957431793,medium,medium
+Georgia,2017,low,medium,low,medium,high,low,medium,low,low,low,medium,high,1.7750799655914309,0.3988249599933624,medium,medium
+Georgia,2018,low,medium,low,medium,medium,low,medium,low,low,low,medium,high,2.223053216934204,0.4771424829959869,medium,medium
+Georgia,2019,medium,medium,low,medium,medium,low,medium,low,low,low,medium,high,2.1687335968017583,0.4433373808860779,medium,medium
+Germany,2016,high,high,high,high,high,medium,low,medium,low,medium,high,high,1.7759060859680176,0.2583600878715515,low,low
+Germany,2017,high,high,high,high,high,medium,low,medium,low,medium,high,high,1.441730260848999,0.2037975788116455,low,low
+Germany,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6235891580581665,0.2280845791101456,low,low
+Germany,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.7676262855529783,0.2512448728084564,low,low
+Ghana,2016,low,low,low,low,medium,medium,high,medium,medium,medium,medium,medium,2.7370426654815674,0.6062900424003601,medium,medium
+Ghana,2017,medium,low,low,low,medium,medium,high,medium,low,high,high,medium,2.551119565963745,0.4654214382171631,medium,medium
+Ghana,2018,medium,low,medium,low,high,medium,high,medium,low,medium,medium,medium,2.5109379291534424,0.5018169283866882,medium,high
+Ghana,2019,medium,low,medium,low,medium,medium,high,medium,medium,medium,medium,medium,2.5462288856506348,0.5126487612724304,medium,medium
+Greece,2016,medium,high,medium,high,low,low,high,medium,medium,low,medium,medium,2.31729793548584,0.4370100498199463,low,low
+Greece,2017,medium,high,medium,high,low,low,high,low,medium,low,high,medium,2.4116311073303223,0.4684378206729889,low,low
+Greece,2018,medium,high,medium,high,low,low,high,medium,medium,low,high,medium,2.0797712802886963,0.3844814300537109,low,low
+Greece,2019,medium,high,high,high,low,low,high,medium,low,low,high,medium,2.049610137939453,0.3443474173545837,low,low
+Guatemala,2016,high,medium,medium,medium,high,medium,high,high,medium,medium,medium,low,2.6994218826293945,0.424509733915329,high,medium
+Guatemala,2017,high,medium,medium,medium,high,medium,high,high,medium,medium,medium,low,2.8589460849761963,0.4519988000392914,high,medium
+Guatemala,2018,high,medium,medium,medium,high,medium,medium,high,medium,medium,medium,low,2.840461254119873,0.4286458790302277,high,high
+Guatemala,2019,high,medium,medium,medium,high,medium,medium,high,medium,medium,medium,low,2.93322491645813,0.4684035181999207,high,high
+Guinea,2016,low,low,low,low,medium,medium,high,medium,high,medium,medium,low,2.1184866428375244,0.5880022644996643,medium,medium
+Guinea,2017,medium,low,low,low,medium,medium,medium,medium,high,medium,medium,low,2.969935417175293,0.6093772053718567,medium,high
+Guinea,2018,medium,low,low,low,medium,medium,high,medium,high,medium,medium,low,3.3026351928710938,0.6288066506385803,medium,high
+Guinea,2019,low,low,low,low,medium,medium,medium,medium,high,medium,medium,low,3.2114446163177486,0.6735858321189879,medium,medium
+Haiti,2016,low,low,low,low,low,high,high,low,high,low,medium,low,2.1881439685821533,0.6527291536331177,medium,high
+Haiti,2017,low,low,low,low,low,high,medium,low,medium,medium,medium,low,2.156944990158081,0.5640744566917419,medium,high
+Haiti,2018,low,low,low,low,low,high,medium,low,medium,low,medium,low,3.0767302513122563,0.8511179685592651,medium,high
+Honduras,2016,medium,low,medium,medium,high,medium,high,high,medium,low,medium,low,2.9706189632415767,0.5259450674057007,high,medium
+Honduras,2017,medium,low,medium,medium,high,medium,high,high,low,medium,medium,low,2.9635860919952397,0.4922912120819092,high,medium
+Honduras,2018,medium,low,medium,medium,high,medium,high,high,medium,low,medium,low,3.1347203254699707,0.530551016330719,high,high
+Honduras,2019,medium,low,medium,medium,high,medium,high,high,medium,low,medium,low,3.149577140808105,0.5311213731765747,high,medium
+Hong Kong S.A.R. of China,2016,medium,high,medium,medium,medium,medium,low,medium,low,medium,high,high,1.8192381858825684,0.3308655917644501,medium,medium
+Hong Kong S.A.R. of China,2017,medium,high,medium,medium,high,medium,low,medium,low,medium,high,high,1.7845594882965088,0.33278653025627136,medium,medium
+Hong Kong S.A.R. of China,2019,medium,high,high,medium,medium,medium,low,low,medium,low,high,high,1.8027682304382324,0.3185487389564514,medium,medium
+Hungary,2016,medium,high,high,medium,low,low,high,medium,low,low,high,medium,1.8453776836395264,0.3386696577072144,low,low
+Hungary,2017,medium,high,high,medium,low,low,high,medium,low,low,high,medium,1.7924091815948486,0.2955313622951508,low,low
+Hungary,2018,medium,high,high,medium,medium,low,high,medium,low,low,high,medium,1.7891702651977541,0.3014217019081116,low,low
+Hungary,2019,medium,high,high,medium,medium,low,high,medium,low,medium,high,medium,2.0037064552307133,0.3339366018772125,low,medium
+Iceland,2016,high,high,high,high,high,high,medium,high,low,low,high,high,1.5712463855743408,0.20921958982944489,low,low
+Iceland,2017,high,high,high,high,high,high,medium,high,low,low,high,high,1.630090832710266,0.218036949634552,low,low
+Iceland,2019,high,high,high,high,high,high,medium,high,low,medium,high,high,1.5471978187561035,0.20540283620357516,low,low
+India,2016,low,medium,low,low,high,medium,medium,medium,medium,high,medium,medium,1.7413492202758791,0.4166727364063263,low,medium
+India,2017,low,medium,low,low,high,medium,high,medium,medium,high,medium,medium,1.6598275899887085,0.41022789478302,low,low
+India,2018,low,medium,low,low,high,medium,high,medium,medium,high,medium,medium,2.212352752685547,0.5794428586959839,low,medium
+India,2019,low,medium,low,low,high,medium,medium,medium,high,high,medium,medium,2.9618031978607178,0.9116691350936891,low,medium
+Indonesia,2016,medium,medium,medium,medium,high,high,high,high,medium,high,medium,medium,2.5467782020568848,0.495836615562439,medium,medium
+Indonesia,2017,medium,medium,medium,medium,high,high,high,high,medium,high,medium,medium,2.325179100036621,0.4560604095458984,medium,medium
+Indonesia,2018,medium,medium,medium,medium,high,high,high,high,medium,high,medium,medium,2.5308024883270264,0.4739067852497101,medium,medium
+Indonesia,2019,medium,medium,medium,medium,high,high,high,high,medium,high,medium,medium,2.653823137283325,0.4963652491569519,medium,medium
+Iran,2016,low,medium,low,medium,medium,medium,medium,medium,high,high,low,low,2.542438507080078,0.546440064907074,medium,medium
+Iran,2017,low,medium,medium,medium,medium,medium,medium,medium,high,medium,low,low,2.4971790313720703,0.5294241905212402,medium,high
+Iran,2018,low,medium,low,medium,low,medium,medium,low,high,medium,low,low,2.3757083415985107,0.5553162693977356,medium,medium
+Iran,2019,medium,medium,low,medium,low,medium,medium,low,high,medium,low,low,2.551438808441162,0.5096613168716431,medium,medium
+Iraq,2016,low,medium,medium,low,medium,medium,high,low,high,medium,low,low,2.9487881660461426,0.668274998664856,low,medium
+Iraq,2017,low,medium,low,low,low,medium,medium,low,high,medium,low,low,2.899484872817993,0.6497592329978943,low,medium
+Iraq,2018,medium,medium,medium,low,low,low,high,medium,high,low,low,low,2.5624370574951167,0.5024790763854979,low,medium
+Ireland,2016,high,high,high,high,high,medium,low,high,low,medium,high,high,1.8430733680725095,0.2617729902267456,low,low
+Ireland,2017,high,high,high,high,high,high,low,high,low,medium,high,high,1.7613344192504885,0.24947530031204224,low,low
+Ireland,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.86378812789917,0.26769581437110895,low,low
+Ireland,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.681363821029663,0.2317574918270111,low,medium
+Israel,2016,high,high,high,high,medium,medium,high,medium,medium,medium,medium,high,1.66659677028656,0.2327970713376999,medium,low
+Israel,2017,high,high,high,high,medium,medium,high,medium,medium,low,medium,high,1.5226829051971436,0.2077036499977112,medium,low
+Israel,2018,high,high,high,high,medium,medium,medium,medium,medium,medium,medium,high,1.7349070310592651,0.2504492998123169,medium,low
+Italy,2016,medium,high,high,high,low,medium,high,medium,medium,low,high,medium,1.871863603591919,0.3143599033355713,low,medium
+Italy,2017,high,high,high,high,low,medium,high,medium,medium,low,high,medium,1.9272465705871584,0.310902863740921,low,low
+Italy,2018,high,high,high,high,low,medium,high,medium,high,low,high,medium,1.5227446556091309,0.2336742728948593,low,medium
+Italy,2019,high,high,medium,high,medium,medium,high,medium,medium,low,high,medium,1.7024990320205688,0.2641410231590271,low,low
+Ivory Coast,2016,low,low,low,low,medium,medium,medium,medium,high,high,medium,low,2.462603807449341,0.5421197414398193,medium,medium
+Ivory Coast,2017,medium,low,low,low,medium,low,medium,medium,medium,medium,medium,low,2.6120901107788086,0.5185048580169678,medium,medium
+Ivory Coast,2018,medium,low,low,low,medium,medium,high,medium,high,medium,medium,medium,3.078240871429444,0.584286630153656,medium,medium
+Ivory Coast,2019,medium,low,low,low,medium,medium,high,medium,high,medium,medium,low,3.2384698390960693,0.6006050705909729,medium,high
+Japan,2016,medium,high,high,high,high,medium,medium,high,low,low,high,high,1.8989526033401491,0.3189024329185486,low,low
+Japan,2017,medium,high,high,high,high,low,medium,medium,low,medium,high,high,1.9502569437026975,0.3299549520015717,low,medium
+Japan,2018,medium,high,high,high,medium,low,medium,medium,low,low,high,high,1.9160255193710327,0.3307155668735504,low,medium
+Japan,2019,medium,high,high,high,medium,low,medium,medium,low,medium,high,high,1.8783016204833984,0.31792300939559937,low,medium
+Jordan,2016,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,2.6756856441497803,0.507596492767334,low,low
+Jordan,2017,low,medium,medium,medium,medium,low,medium,medium,high,medium,medium,medium,2.523892402648926,0.524927020072937,low,low
+Jordan,2018,low,medium,medium,medium,medium,low,medium,medium,medium,medium,medium,medium,2.764460563659668,0.5959258675575256,low,medium
+Jordan,2019,low,medium,medium,medium,medium,low,medium,medium,medium,medium,medium,medium,2.9430844783782963,0.6609888076782227,low,low
+Kazakhstan,2016,medium,high,high,medium,medium,medium,medium,medium,low,high,medium,medium,2.012498140335083,0.3636901378631592,low,low
+Kazakhstan,2017,medium,high,high,medium,medium,medium,medium,high,low,high,medium,medium,1.7453237771987915,0.2967051267623901,low,low
+Kazakhstan,2018,medium,high,high,medium,high,low,high,medium,low,medium,medium,medium,1.8786886930465696,0.3127167820930481,low,medium
+Kazakhstan,2019,high,high,high,medium,high,medium,medium,high,low,high,medium,medium,2.079065561294556,0.33146947622299194,low,low
+Kenya,2016,low,low,low,low,medium,high,high,medium,low,medium,medium,low,2.433896780014038,0.5536456108093262,medium,medium
+Kenya,2017,low,low,medium,low,high,high,high,high,low,medium,medium,low,2.5323634147644043,0.5658085346221924,medium,medium
+Kenya,2018,low,low,low,low,high,high,high,high,low,high,medium,medium,2.7492306232452397,0.590508222579956,medium,high
+Kenya,2019,low,low,low,medium,high,high,high,high,low,high,medium,low,3.129460573196411,0.6775410175323486,medium,high
+Kosovo,2016,medium,medium,medium,medium,high,medium,high,medium,low,low,medium,medium,2.2976200580596924,0.398933082818985,low,medium
+Kosovo,2017,medium,medium,medium,medium,high,medium,high,medium,low,low,medium,medium,2.432453155517578,0.39557230472564703,low,medium
+Kosovo,2018,high,medium,medium,medium,high,high,high,high,low,low,medium,medium,2.563801050186157,0.40110620856285095,low,medium
+Kosovo,2019,high,medium,medium,medium,high,medium,high,high,low,low,medium,medium,2.5046555995941158,0.3898209035396576,low,medium
+Kuwait,2016,medium,high,medium,medium,high,low,medium,medium,medium,medium,medium,medium,2.360634088516236,0.3969323933124542,medium,medium
+Kuwait,2017,medium,high,medium,medium,high,medium,medium,medium,medium,medium,medium,medium,2.355753183364868,0.3865752816200256,medium,high
+Kuwait,2019,medium,high,medium,medium,high,low,medium,medium,medium,medium,medium,medium,2.4834985733032227,0.4067228734493256,medium,high
+Kyrgyzstan,2016,medium,low,high,medium,medium,medium,high,high,low,medium,medium,low,1.919352412223816,0.395210325717926,low,medium
+Kyrgyzstan,2017,medium,low,high,medium,high,medium,high,high,low,medium,medium,low,1.9013910293579104,0.33775267004966736,low,low
+Kyrgyzstan,2018,medium,low,high,medium,high,high,high,high,low,medium,medium,low,1.901606202125549,0.3589708507061005,low,medium
+Kyrgyzstan,2019,medium,low,high,medium,high,medium,high,high,low,medium,medium,low,2.0777726173400883,0.3654691278934479,low,low
+Laos,2017,low,medium,low,low,high,medium,medium,high,medium,high,medium,low,1.8819738626480105,0.407076895236969,low,high
+Laos,2018,medium,medium,low,low,high,medium,medium,high,medium,high,medium,low,2.1614539623260502,0.4447983205318451,low,medium
+Laos,2019,medium,medium,medium,low,high,medium,medium,high,medium,high,medium,low,2.471118450164795,0.4755025804042816,low,medium
+Latvia,2016,medium,high,high,medium,medium,low,high,medium,low,low,high,high,1.705120325088501,0.28703573346138,medium,medium
+Latvia,2017,medium,high,high,medium,medium,low,high,medium,low,low,high,high,1.8148031234741209,0.3035895824432373,medium,low
+Latvia,2018,medium,high,high,medium,low,low,high,low,low,low,high,high,1.718401551246643,0.2911975383758545,medium,low
+Latvia,2019,medium,high,high,medium,medium,low,high,low,low,low,high,high,1.5778300762176514,0.2643040418624878,medium,low
+Lebanon,2016,medium,medium,medium,medium,low,medium,high,low,medium,low,low,low,2.212087392807007,0.4196932911872864,low,low
+Lebanon,2017,medium,medium,medium,medium,low,medium,high,low,low,low,low,low,1.929767608642578,0.3744220733642578,low,low
+Lebanon,2018,medium,medium,medium,medium,low,medium,high,low,medium,low,low,low,2.1507933139801025,0.4162406921386719,low,low
+Lebanon,2019,low,medium,high,medium,low,medium,high,low,high,low,low,low,2.0346333980560303,0.5055969953536987,low,low
+Lesotho,2016,low,low,medium,low,medium,low,medium,medium,medium,medium,medium,medium,3.10268235206604,0.8147361874580383,high,high
+Lesotho,2017,low,low,medium,low,medium,low,high,medium,medium,high,medium,medium,2.8437769412994385,0.7492889761924744,high,high
+Lesotho,2019,low,low,medium,low,medium,low,high,medium,medium,low,medium,medium,3.058314323425293,0.8708728551864624,high,high
+Liberia,2016,low,low,low,low,medium,medium,high,medium,high,medium,medium,low,2.625506639480591,0.7826408743858337,low,medium
+Liberia,2017,low,low,low,low,medium,medium,high,medium,high,medium,medium,low,3.393739938735962,0.7670351266860962,low,high
+Liberia,2018,low,low,medium,low,medium,medium,high,medium,high,high,medium,low,3.718958377838135,0.8994173407554626,low,high
+Liberia,2019,medium,low,medium,low,medium,medium,high,medium,high,medium,medium,low,4.073200702667236,0.7953200936317444,low,high
+Libya,2016,medium,medium,high,medium,high,low,medium,medium,high,medium,low,low,2.6879537105560303,0.4946926534175873,medium,medium
+Libya,2017,medium,medium,medium,medium,medium,medium,medium,medium,high,medium,low,low,2.5077879428863525,0.4441036880016327,medium,high
+Libya,2018,medium,medium,medium,medium,medium,low,medium,medium,high,medium,low,low,2.4723429679870605,0.4500096738338471,medium,high
+Libya,2019,medium,medium,medium,medium,medium,low,medium,medium,high,medium,low,low,2.5647542476654053,0.48117211461067205,medium,medium
+Lithuania,2016,medium,high,high,medium,low,low,high,low,low,low,high,high,1.906200885772705,0.32498231530189514,medium,low
+Lithuania,2017,high,high,high,medium,medium,low,high,low,low,low,high,high,2.1758043766021733,0.3468555808067322,medium,medium
+Lithuania,2018,high,high,high,medium,medium,low,high,low,low,low,high,high,1.9539501667022705,0.3097143173217773,medium,low
+Lithuania,2019,medium,high,high,medium,medium,low,high,low,medium,low,high,high,2.060576200485229,0.3397992849349976,medium,medium
+Luxembourg,2016,high,high,high,high,high,medium,low,high,low,high,high,high,1.389065146446228,0.1993680447340012,low,low
+Luxembourg,2017,high,high,high,high,high,medium,low,high,low,high,high,high,1.424475908279419,0.20172767341136927,low,low
+Luxembourg,2018,high,high,high,high,high,medium,low,high,low,high,high,high,1.3447816371917725,0.18567584455013275,low,low
+Luxembourg,2019,high,high,high,high,high,medium,low,high,low,high,high,high,1.2805593013763428,0.1729547083377838,low,low
+Macedonia,2016,medium,medium,high,medium,medium,medium,high,medium,medium,low,medium,medium,2.1750414371490483,0.40687331557273865,medium,medium
+Macedonia,2017,medium,medium,medium,medium,medium,medium,high,low,medium,medium,medium,medium,2.111887216567993,0.4035041928291321,medium,low
+Macedonia,2018,medium,medium,medium,medium,medium,medium,high,low,medium,low,medium,medium,2.1505968570709233,0.4104321897029877,medium,low
+Macedonia,2019,medium,medium,medium,medium,medium,medium,high,low,medium,low,medium,medium,2.22239351272583,0.4431063830852509,medium,low
+Madagascar,2016,low,low,medium,low,low,medium,high,high,low,medium,medium,low,1.5325288772583008,0.4183709919452667,medium,medium
+Madagascar,2017,low,low,low,low,low,medium,high,high,high,medium,medium,low,2.3289148807525635,0.5710055232048035,medium,high
+Madagascar,2018,low,low,low,low,low,medium,high,high,high,medium,medium,low,2.57461166381836,0.6324915289878845,medium,high
+Madagascar,2019,low,low,low,low,low,medium,medium,medium,medium,high,medium,low,2.366943359375,0.5454933643341064,medium,medium
+Malawi,2016,low,low,low,low,medium,medium,high,low,medium,medium,medium,low,2.2318577766418457,0.6419854760169983,medium,medium
+Malawi,2017,low,low,low,low,high,medium,medium,low,medium,medium,medium,low,2.760293245315552,0.8078442811965942,medium,high
+Malawi,2018,low,low,low,low,medium,medium,medium,low,high,medium,medium,low,3.128339529037476,0.9381359219551086,medium,high
+Malawi,2019,low,low,low,low,medium,medium,medium,low,medium,medium,medium,low,3.6703362464904794,0.9486221075057985,medium,high
+Mali,2016,low,low,medium,low,medium,medium,high,high,medium,medium,medium,low,1.7733235359191897,0.4415615499019623,medium,medium
+Mali,2017,low,low,medium,low,medium,medium,high,medium,high,medium,low,low,2.511667966842652,0.5296809673309326,medium,medium
+Mali,2018,low,low,low,low,medium,medium,high,high,high,medium,low,low,2.631044626235962,0.5958346724510193,medium,high
+Mali,2019,medium,low,medium,low,medium,medium,high,medium,medium,medium,low,low,3.1684181690216064,0.6352092027664185,medium,high
+Malta,2016,high,high,high,high,high,high,medium,medium,medium,medium,high,high,1.8753358125686648,0.28453660011291504,low,medium
+Malta,2017,high,high,high,high,high,high,medium,medium,medium,high,high,high,1.994550347328186,0.2987792491912842,low,medium
+Malta,2018,high,high,high,high,high,medium,medium,medium,medium,high,high,high,1.8198602199554443,0.2633771896362305,low,medium
+Malta,2019,high,high,high,high,high,high,medium,medium,medium,high,high,high,1.8061362504959104,0.2682522237300873,low,medium
+Mauritania,2016,low,low,medium,low,low,low,high,medium,low,low,medium,low,2.1788160800933842,0.4871966242790222,medium,medium
+Mauritania,2017,low,low,medium,low,low,low,high,medium,medium,low,medium,low,2.1305499076843257,0.4554247856140137,medium,medium
+Mauritania,2018,low,low,medium,low,low,low,medium,medium,medium,low,medium,low,2.1199965476989746,0.4914662837982178,medium,medium
+Mauritania,2019,low,low,medium,low,low,low,medium,medium,medium,low,medium,low,2.5839576721191406,0.6222476363182068,medium,medium
+Mauritius,2016,medium,medium,medium,medium,high,medium,high,high,low,medium,high,high,2.0858848094940186,0.3718152344226837,medium,medium
+Mauritius,2017,medium,medium,high,medium,high,medium,high,high,low,medium,high,high,2.247790575027466,0.3640666902065277,medium,medium
+Mauritius,2018,medium,high,high,medium,high,medium,high,high,low,medium,high,high,2.5572583675384517,0.43477919697761536,medium,medium
+Mauritius,2019,high,high,high,medium,high,medium,high,high,low,medium,high,high,2.370694160461426,0.3798480033874512,medium,medium
+Mexico,2016,high,medium,high,medium,medium,low,high,high,low,low,medium,medium,1.9594572782516482,0.2871347665786743,high,medium
+Mexico,2017,high,medium,medium,medium,high,low,high,high,low,low,medium,medium,2.2362072467803955,0.3488459885120392,high,medium
+Mexico,2018,high,medium,high,medium,high,low,high,high,low,low,medium,medium,2.3263299465179443,0.35518771409988403,high,medium
+Mexico,2019,high,medium,medium,medium,high,low,high,high,low,medium,medium,medium,2.3986034393310547,0.3729203641414641,high,medium
+Moldova,2016,medium,medium,medium,medium,low,medium,high,medium,medium,low,medium,low,1.8537135124206543,0.33233869075775146,low,low
+Moldova,2017,medium,medium,medium,medium,low,medium,high,low,medium,low,medium,medium,1.885169267654419,0.3539871275424957,low,medium
+Moldova,2018,medium,medium,high,medium,high,medium,high,low,medium,low,medium,medium,2.0344412326812744,0.3580327332019806,low,medium
+Moldova,2019,medium,medium,medium,medium,medium,medium,high,medium,medium,low,medium,medium,2.345360279083252,0.4041320383548737,low,medium
+Mongolia,2016,medium,medium,high,medium,medium,medium,high,medium,low,low,high,medium,1.6921592950820925,0.3346172571182251,low,medium
+Mongolia,2017,medium,medium,high,medium,medium,medium,high,medium,low,low,high,medium,2.0951616764068604,0.392804741859436,low,medium
+Mongolia,2018,medium,medium,high,medium,medium,medium,high,medium,low,low,high,medium,2.0101244449615483,0.3678432106971741,low,low
+Mongolia,2019,medium,medium,high,medium,medium,medium,high,medium,low,low,high,medium,1.9513472318649288,0.3507784307003021,low,low
+Montenegro,2016,medium,medium,high,medium,low,medium,high,low,medium,low,medium,medium,2.2282915115356445,0.4201100468635559,low,low
+Montenegro,2017,medium,medium,high,medium,low,medium,medium,low,medium,low,medium,medium,2.2075119018554688,0.3931595981121063,low,low
+Montenegro,2018,medium,medium,high,medium,low,medium,medium,low,medium,low,medium,medium,2.2703628540039062,0.4018206298351288,low,medium
+Montenegro,2019,medium,medium,medium,medium,medium,low,high,low,high,low,medium,medium,2.1995067596435547,0.4083729386329651,low,low
+Morocco,2016,medium,medium,low,medium,high,low,medium,medium,low,medium,medium,medium,2.1439924240112305,0.3980449438095093,medium,medium
+Morocco,2017,medium,medium,low,medium,medium,low,high,low,medium,medium,medium,medium,2.287168264389038,0.4305271804332733,medium,medium
+Morocco,2018,medium,medium,low,medium,medium,low,high,medium,high,medium,medium,medium,2.7105112075805664,0.5535279512405396,medium,medium
+Morocco,2019,medium,medium,low,medium,medium,low,medium,low,high,medium,medium,medium,2.62931489944458,0.5199612379074097,medium,high
+Mozambique,2017,low,low,low,low,high,medium,medium,medium,medium,high,medium,low,2.9850199222564697,0.6974568367004395,high,high
+Mozambique,2018,low,low,medium,low,high,medium,medium,medium,high,high,medium,low,3.3264319896698,0.7147908806800842,high,high
+Mozambique,2019,medium,low,medium,low,high,medium,medium,low,high,high,medium,low,3.843173503875733,0.7792112827301025,high,high
+Myanmar,2016,low,medium,medium,low,high,high,medium,high,medium,high,medium,low,1.850762724876404,0.4003276526927948,medium,medium
+Myanmar,2017,low,medium,medium,low,high,high,medium,medium,medium,high,low,low,2.233865976333618,0.5377184152603149,medium,medium
+Myanmar,2018,low,medium,medium,low,high,high,medium,high,medium,high,low,low,2.2870407104492188,0.5185288786888123,medium,medium
+Myanmar,2019,low,medium,medium,low,high,high,medium,high,medium,high,low,low,2.334933280944824,0.5265693068504333,medium,medium
+Namibia,2017,low,medium,medium,low,medium,low,high,medium,medium,high,high,medium,2.7397732734680176,0.6168845891952515,high,high
+Namibia,2018,medium,medium,high,low,medium,low,high,medium,low,medium,high,medium,2.1019375324249268,0.43481576442718506,high,high
+Namibia,2019,low,medium,medium,low,medium,low,high,medium,medium,medium,high,medium,2.911251783370972,0.6563065648078918,high,high
+Nepal,2016,medium,low,medium,medium,high,medium,high,medium,high,medium,medium,low,2.442025899887085,0.4788718223571777,medium,medium
+Nepal,2017,low,low,medium,medium,high,medium,medium,low,high,medium,medium,low,2.4684536457061768,0.5211344361305237,medium,medium
+Nepal,2018,medium,low,medium,medium,medium,medium,medium,low,high,medium,medium,low,3.040154457092285,0.6191651225090027,medium,medium
+Nepal,2019,medium,low,medium,medium,medium,medium,medium,low,medium,medium,medium,low,3.196477174758911,0.5866468548774719,medium,medium
+Netherlands,2016,high,high,high,high,high,high,low,high,low,medium,high,high,1.281471610069275,0.1699366718530655,low,medium
+Netherlands,2017,high,high,high,high,high,high,low,high,low,high,high,high,1.3184798955917358,0.17676444351673126,low,medium
+Netherlands,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.2347326278686523,0.16544507443904874,low,medium
+Netherlands,2019,high,high,high,high,high,high,low,high,low,medium,high,high,1.293794870376587,0.17424216866493225,low,medium
+New Zealand,2016,high,high,high,high,high,high,low,high,low,medium,high,high,1.7404985427856443,0.2408765107393265,medium,medium
+New Zealand,2017,high,high,high,high,high,high,low,high,low,medium,high,high,1.6503357887268066,0.22523470222949984,medium,medium
+New Zealand,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.569916009902954,0.2130061239004135,medium,medium
+New Zealand,2019,high,high,high,high,high,medium,low,high,low,high,high,high,1.79197895526886,0.24870721995830536,medium,medium
+Nicaragua,2016,medium,low,medium,medium,medium,medium,medium,high,high,medium,medium,low,2.8001537322998047,0.4657034575939178,high,medium
+Nicaragua,2017,high,low,medium,medium,high,medium,medium,high,medium,medium,medium,low,2.65725326538086,0.4103006422519684,high,medium
+Nicaragua,2018,medium,low,medium,medium,medium,medium,medium,high,high,low,low,low,2.7110755443573,0.4659043848514557,high,medium
+Nicaragua,2019,medium,low,high,medium,high,medium,medium,high,medium,medium,medium,low,3.1123888492584233,0.5091805458068848,high,medium
+Niger,2016,low,low,low,low,medium,medium,high,medium,medium,medium,medium,low,2.279543876647949,0.5383080244064331,medium,medium
+Niger,2017,low,low,low,low,medium,medium,high,medium,high,medium,medium,low,2.780397891998291,0.6023818254470825,medium,high
+Niger,2018,medium,low,low,low,medium,medium,medium,high,high,high,medium,low,3.5702004432678223,0.6913623809814453,medium,high
+Niger,2019,medium,low,low,low,high,medium,medium,high,medium,high,medium,low,3.077076911926269,0.6149794459342957,medium,high
+Nigeria,2016,medium,medium,medium,low,medium,medium,high,medium,low,medium,low,low,2.5199592113494877,0.4827907681465149,medium,medium
+Nigeria,2017,medium,medium,medium,low,high,medium,high,medium,low,medium,low,low,2.9479031562805176,0.5539163947105408,medium,medium
+Nigeria,2018,medium,medium,medium,low,medium,medium,high,high,medium,medium,low,low,2.6391255855560303,0.5024715662002563,medium,medium
+Nigeria,2019,low,medium,medium,low,medium,medium,high,medium,low,low,low,low,2.734458446502685,0.6276848912239075,medium,medium
+North Cyprus,2016,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,medium,1.857637882232666,0.3187913298606873,medium,low
+North Cyprus,2018,medium,medium,medium,medium,medium,medium,medium,low,medium,low,medium,medium,1.807883143424988,0.32237252593040466,medium,low
+North Cyprus,2019,medium,medium,medium,medium,medium,medium,medium,low,medium,low,medium,medium,1.9528169631958008,0.3572259843349457,medium,low
+Norway,2016,high,high,high,high,high,medium,low,high,low,medium,high,high,1.5792648792266846,0.2078983634710312,low,low
+Norway,2017,high,high,high,high,high,high,low,high,low,high,high,high,1.6217260360717771,0.2139834612607956,low,low
+Norway,2018,high,high,high,high,high,medium,low,high,low,high,high,high,1.5195953845977783,0.2041297554969788,low,low
+Norway,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.5853207111358645,0.2130194753408432,low,low
+Pakistan,2016,medium,low,low,low,low,medium,high,medium,medium,medium,low,low,1.956958293914795,0.3526999056339264,low,low
+Pakistan,2017,medium,low,low,low,medium,medium,medium,low,medium,medium,low,low,1.778067946434021,0.3049403727054596,low,medium
+Pakistan,2018,medium,low,low,low,medium,medium,high,low,high,medium,low,low,2.363150119781494,0.4318974614143372,low,low
+Palestinian Territories,2016,medium,low,medium,medium,low,low,high,low,high,medium,low,medium,2.3755087852478027,0.4841438233852386,medium,medium
+Palestinian Territories,2017,low,low,medium,medium,low,low,high,low,high,medium,low,medium,2.521674156188965,0.5448578000068665,medium,medium
+Palestinian Territories,2018,low,low,medium,medium,low,low,high,low,high,low,low,medium,2.5803892612457275,0.5666301250457764,medium,medium
+Palestinian Territories,2019,low,low,medium,medium,low,low,high,medium,high,low,low,medium,2.569387197494507,0.5731992721557617,medium,medium
+Panama,2016,medium,high,high,high,high,low,high,high,low,low,high,medium,2.645735740661621,0.432476669549942,high,medium
+Panama,2017,high,high,high,high,high,low,high,high,low,low,high,medium,2.67718768119812,0.4076319634914398,high,medium
+Panama,2018,high,high,high,high,high,low,high,high,low,low,high,medium,2.5328612327575684,0.4032297730445862,high,medium
+Panama,2019,medium,high,high,high,high,low,high,high,low,low,high,medium,2.914560079574585,0.478899359703064,high,medium
+Paraguay,2016,medium,medium,high,medium,high,medium,medium,high,low,low,medium,low,1.9607025384902956,0.3379717469215393,high,medium
+Paraguay,2017,medium,medium,high,medium,high,medium,high,high,low,low,medium,low,2.428467273712158,0.4250554442405701,high,medium
+Paraguay,2019,medium,medium,high,medium,high,medium,high,high,medium,low,medium,low,2.598292827606201,0.4596612453460693,high,medium
+Peru,2016,medium,medium,medium,medium,high,low,high,high,medium,low,medium,medium,2.3739392757415767,0.416434645652771,high,medium
+Peru,2017,medium,medium,medium,medium,high,low,high,high,high,low,medium,medium,2.5943140983581543,0.4542712271213532,high,medium
+Peru,2018,medium,medium,medium,medium,high,low,high,high,high,low,medium,medium,2.694195508956909,0.474358469247818,high,medium
+Peru,2019,medium,medium,medium,medium,medium,low,high,high,high,low,medium,medium,2.596575975418091,0.4328072667121887,high,medium
+Philippines,2016,medium,medium,medium,medium,high,medium,high,high,medium,high,medium,medium,2.4706177711486816,0.4549242854118347,high,medium
+Philippines,2017,medium,medium,medium,medium,high,low,medium,high,medium,high,medium,medium,2.5971851348876958,0.464258074760437,high,medium
+Philippines,2018,medium,medium,medium,medium,high,low,medium,high,high,high,medium,medium,2.7002577781677246,0.4600746929645538,high,medium
+Philippines,2019,high,medium,medium,medium,high,medium,medium,high,medium,high,medium,medium,2.5844788551330566,0.4123458862304688,high,medium
+Poland,2016,medium,high,high,medium,high,low,high,high,low,low,high,high,1.8458486795425413,0.29954978823661804,low,low
+Poland,2017,high,high,high,medium,high,low,medium,medium,low,medium,high,high,1.6274428367614746,0.262437105178833,low,low
+Poland,2018,medium,high,high,high,high,low,medium,medium,low,medium,high,medium,1.7358081340789795,0.2840239405632019,low,low
+Poland,2019,high,high,high,high,high,low,medium,medium,low,medium,high,high,1.6209763288497925,0.2596847116947174,low,low
+Portugal,2016,medium,high,high,high,high,low,high,medium,medium,low,high,high,2.1320128440856934,0.3914365470409393,medium,medium
+Portugal,2017,medium,high,high,high,high,low,high,medium,medium,medium,high,high,2.205086708068848,0.3860784471035004,medium,medium
+Portugal,2018,medium,high,high,high,high,low,high,medium,medium,medium,high,high,2.1706221103668213,0.3666701316833496,medium,medium
+Portugal,2019,medium,high,high,high,high,low,high,medium,medium,medium,high,high,2.1275293827056885,0.34903430938720703,medium,medium
+Romania,2016,medium,high,medium,medium,high,low,high,medium,medium,low,high,medium,2.1998863220214844,0.36855989694595337,medium,low
+Romania,2017,medium,high,medium,medium,high,low,high,medium,low,low,medium,medium,2.141298055648804,0.351614385843277,medium,medium
+Romania,2018,medium,high,medium,medium,high,low,high,medium,medium,low,medium,medium,2.1965672969818115,0.35711437463760376,medium,low
+Romania,2019,medium,high,medium,medium,high,low,high,medium,low,low,high,medium,2.2175679206848145,0.3617599904537201,medium,medium
+Russia,2016,medium,high,high,medium,medium,low,high,medium,low,medium,low,low,2.0901989936828613,0.3569971621036529,medium,low
+Russia,2017,medium,high,high,medium,medium,low,high,medium,low,medium,medium,low,2.1246886253356934,0.3808543682098389,medium,low
+Russia,2018,medium,high,high,medium,medium,low,high,medium,low,medium,medium,low,2.1814813613891597,0.3956618010997772,medium,medium
+Rwanda,2016,low,low,low,low,high,medium,low,high,medium,high,medium,medium,1.895575165748596,0.5687311291694641,high,high
+Rwanda,2017,low,low,low,low,high,medium,low,high,medium,high,medium,medium,2.1287312507629395,0.6848375797271729,high,high
+Rwanda,2018,low,low,low,medium,high,medium,low,high,medium,high,medium,medium,2.3322699069976807,0.6549394726753235,high,high
+Rwanda,2019,low,low,low,medium,high,medium,low,medium,high,high,medium,medium,2.6116364002227783,0.7991171479225159,high,high
+Saudi Arabia,2016,high,high,high,medium,medium,low,medium,high,medium,medium,low,medium,2.0700845718383794,0.3197574615478516,medium,high
+Saudi Arabia,2017,high,high,medium,medium,medium,low,medium,high,medium,medium,low,medium,2.508923053741455,0.39860349893569946,medium,medium
+Saudi Arabia,2018,high,high,high,medium,high,low,medium,high,medium,medium,low,medium,2.324450969696045,0.3656871020793915,medium,medium
+Saudi Arabia,2019,high,high,high,medium,high,low,medium,medium,low,medium,low,medium,2.421713829040528,0.36909350752830505,medium,medium
+Senegal,2016,low,low,medium,low,medium,low,high,high,low,medium,medium,medium,1.815144658088684,0.395066112279892,medium,medium
+Senegal,2017,low,low,medium,low,medium,medium,high,medium,medium,medium,medium,medium,2.0076375007629395,0.4287052750587464,medium,medium
+Senegal,2018,low,low,medium,low,low,medium,high,medium,low,medium,medium,medium,1.9640820026397705,0.4118109941482544,medium,medium
+Senegal,2019,medium,low,low,low,medium,medium,high,high,medium,medium,medium,medium,2.9525442123413086,0.5379278063774109,medium,medium
+Serbia,2016,medium,medium,high,medium,low,medium,high,low,medium,medium,medium,medium,2.436187744140625,0.4234819412231445,medium,low
+Serbia,2017,medium,medium,high,medium,medium,medium,high,low,medium,medium,medium,medium,2.3945095539093018,0.4674921929836273,medium,low
+Serbia,2018,medium,medium,medium,medium,medium,low,high,low,medium,medium,medium,medium,2.24608850479126,0.3783527314662933,medium,low
+Serbia,2019,high,medium,high,medium,medium,medium,high,low,low,medium,medium,medium,2.254280805587769,0.3611814975738525,medium,low
+Sierra Leone,2016,low,low,low,low,medium,medium,high,low,high,high,medium,low,3.5278203487396236,0.7453740239143372,medium,high
+Sierra Leone,2017,low,low,low,low,medium,medium,high,low,high,high,medium,low,2.595259189605713,0.6346055865287781,medium,high
+Sierra Leone,2018,low,low,low,low,medium,medium,high,low,high,high,medium,low,3.0480840206146236,0.7079211473464966,medium,high
+Sierra Leone,2019,low,low,low,low,medium,medium,high,low,high,high,medium,low,2.609865427017212,0.7570573091506958,medium,high
+Singapore,2016,medium,high,high,high,high,medium,low,high,low,high,high,high,1.302087903022766,0.2158104032278061,medium,medium
+Singapore,2017,high,high,high,high,high,medium,low,high,low,high,high,high,1.41807222366333,0.22232280671596527,medium,medium
+Singapore,2018,high,high,high,high,high,medium,low,high,low,high,high,high,1.577076435089111,0.2474014461040497,medium,medium
+Singapore,2019,high,high,high,high,high,medium,low,medium,low,high,high,high,1.5281410217285156,0.2395821362733841,medium,medium
+Slovakia,2016,medium,high,high,medium,medium,medium,high,high,low,low,high,medium,1.9160094261169436,0.3196991980075836,low,low
+Slovakia,2017,high,high,high,medium,medium,medium,high,high,low,low,high,medium,1.89752197265625,0.2980943024158478,low,low
+Slovakia,2018,high,high,high,medium,medium,low,high,high,low,low,high,medium,1.7750695943832395,0.284689337015152,low,low
+Slovakia,2019,high,high,high,high,medium,low,high,high,low,low,high,medium,1.926961064338684,0.3086382746696472,low,low
+Slovenia,2016,medium,high,high,high,high,medium,high,medium,medium,low,high,high,2.107287883758545,0.3549522161483765,low,low
+Slovenia,2017,medium,high,high,high,high,medium,high,low,medium,low,high,high,1.9823006391525269,0.3214452564716339,low,low
+Slovenia,2018,high,high,high,high,high,low,high,medium,medium,low,high,high,1.9465738534927368,0.3114807605743408,low,low
+Slovenia,2019,high,high,high,high,high,low,high,medium,low,low,high,high,1.891706466674805,0.2838152647018433,low,low
+South Africa,2016,low,medium,high,low,medium,medium,high,high,medium,medium,medium,medium,2.7798213958740234,0.5828036069869995,high,medium
+South Africa,2017,low,medium,high,low,medium,low,high,high,medium,medium,medium,medium,2.419569492340088,0.5360554456710815,high,medium
+South Africa,2018,medium,medium,medium,low,medium,medium,high,high,medium,medium,medium,medium,2.712254762649536,0.5553435683250427,high,high
+South Africa,2019,medium,medium,medium,low,medium,low,high,high,medium,medium,medium,medium,3.166104793548584,0.6288362741470337,high,medium
+South Korea,2016,medium,high,medium,high,low,medium,high,medium,low,low,high,high,2.129230737686157,0.3566213548183441,low,medium
+South Korea,2017,medium,high,medium,high,low,medium,high,medium,low,low,high,high,2.0757296085357666,0.3533826172351837,low,medium
+South Korea,2018,medium,high,medium,high,low,low,high,medium,low,low,high,high,2.0438473224639893,0.34995999932289124,low,medium
+South Korea,2019,medium,high,medium,high,medium,medium,medium,medium,low,low,high,high,2.0917863845825195,0.3543708920478821,low,medium
+Spain,2016,high,high,high,high,medium,medium,high,medium,medium,low,high,high,1.6061495542526243,0.25419339537620544,low,medium
+Spain,2017,high,high,high,high,medium,medium,high,medium,medium,low,high,high,1.8057217597961424,0.2898349165916443,low,low
+Spain,2018,high,high,high,high,medium,medium,high,medium,medium,low,high,high,1.6670770645141602,0.25594690442085266,low,low
+Spain,2019,high,high,high,high,medium,medium,medium,medium,medium,low,high,high,1.7528568506240845,0.2714472413063049,low,low
+Sri Lanka,2017,low,medium,medium,medium,high,medium,high,high,medium,medium,medium,medium,2.230376005172729,0.5149859189987183,medium,medium
+Sri Lanka,2018,low,medium,medium,medium,high,medium,high,high,medium,medium,medium,medium,2.3634207248687744,0.5328992009162903,medium,medium
+Sri Lanka,2019,low,medium,medium,medium,high,medium,high,high,medium,medium,medium,medium,2.5367207527160645,0.6020746827125549,medium,medium
+Sweden,2016,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6304998397827148,0.22127240896224976,low,medium
+Sweden,2017,high,high,high,high,high,medium,low,high,low,medium,high,high,1.7771768569946291,0.2438897341489792,low,low
+Sweden,2018,high,high,high,high,high,medium,low,high,low,medium,high,high,1.6015219688415527,0.2171616405248642,low,low
+Sweden,2019,high,high,high,high,high,medium,low,high,low,medium,high,high,1.5986213684082031,0.21608561277389526,low,low
+Switzerland,2016,high,high,high,high,high,medium,low,high,low,high,high,high,1.6944100856781006,0.2271777987480164,low,medium
+Switzerland,2017,high,high,high,high,high,medium,low,high,low,high,high,high,1.544615626335144,0.2066764384508133,low,low
+Switzerland,2018,high,high,high,high,high,medium,low,high,low,high,high,high,1.6396318674087524,0.2183675765991211,low,low
+Switzerland,2019,high,high,high,high,high,medium,low,high,low,high,high,high,1.4551560878753662,0.1891232430934906,low,low
+Taiwan Province of China,2016,high,high,high,medium,medium,medium,high,high,low,low,high,high,1.9649697542190552,0.3017065525054932,medium,medium
+Taiwan Province of China,2017,high,high,high,medium,medium,medium,medium,high,low,low,high,high,1.8696022033691408,0.2939879894256592,medium,low
+Taiwan Province of China,2018,high,high,high,medium,medium,medium,medium,high,low,low,high,high,1.69088613986969,0.26146355271339417,medium,low
+Taiwan Province of China,2019,high,high,high,medium,medium,medium,medium,high,low,medium,high,high,1.7329782247543335,0.26509934663772583,medium,low
+Tajikistan,2016,medium,low,high,medium,medium,medium,medium,medium,low,high,low,low,1.673879861831665,0.3279724419116974,low,low
+Tajikistan,2017,medium,low,low,medium,high,medium,medium,low,medium,high,low,low,2.212850570678711,0.3796125650405884,low,low
+Tajikistan,2018,medium,low,high,medium,medium,medium,medium,medium,low,high,low,low,1.955125093460083,0.3556409478187561,low,low
+Tajikistan,2019,medium,low,high,medium,medium,medium,low,medium,low,high,low,low,1.7517704963684082,0.3206013143062592,low,low
+Tanzania,2016,low,low,low,low,medium,medium,medium,medium,low,high,medium,medium,2.513808488845825,0.8660140037536621,medium,high
+Tanzania,2017,low,low,low,low,medium,medium,medium,medium,medium,high,medium,low,2.6836674213409424,0.8017837405204773,medium,medium
+Tanzania,2018,low,low,low,low,medium,medium,medium,high,low,high,medium,low,2.6656835079193115,0.7737780809402466,medium,medium
+Tanzania,2019,low,low,low,low,high,medium,medium,medium,low,high,medium,low,2.9893455505371094,0.8212138414382935,medium,medium
+Thailand,2016,medium,medium,high,medium,high,high,high,high,low,medium,low,medium,2.232674598693848,0.36760076880455017,medium,medium
+Thailand,2017,medium,medium,high,medium,high,high,high,high,low,medium,medium,medium,2.243722438812256,0.3778013288974762,medium,medium
+Thailand,2018,medium,medium,high,medium,high,high,high,high,low,medium,medium,medium,2.105742692947388,0.35028213262557983,medium,medium
+Thailand,2019,medium,medium,high,medium,high,high,high,high,low,medium,low,medium,2.267221689224243,0.3764803409576416,medium,medium
+Togo,2016,low,low,low,low,medium,medium,high,low,high,medium,medium,low,2.548235893249512,0.6570025682449341,medium,medium
+Togo,2017,low,low,low,low,medium,medium,medium,low,high,medium,medium,low,2.49483060836792,0.5721032023429871,medium,medium
+Togo,2018,low,low,low,low,low,medium,high,low,high,low,medium,low,2.110910177230835,0.5247241854667664,medium,medium
+Togo,2019,low,low,low,low,low,medium,medium,low,high,medium,medium,low,3.0315980911254883,0.7253504991531372,medium,medium
+Tunisia,2016,low,medium,low,medium,low,low,high,low,high,low,medium,medium,2.1329026222229004,0.471729427576065,medium,medium
+Tunisia,2017,low,medium,medium,medium,low,low,high,low,high,low,medium,medium,2.214817523956299,0.5370110273361206,medium,medium
+Tunisia,2018,low,medium,medium,medium,low,low,high,low,high,low,medium,medium,2.1799788475036617,0.4598013162612915,medium,medium
+Tunisia,2019,low,medium,low,medium,low,low,high,low,high,low,medium,medium,2.650857448577881,0.6142671704292297,medium,medium
+Turkey,2016,medium,high,high,medium,low,medium,medium,low,high,medium,low,medium,2.388296365737915,0.4484034776687622,medium,low
+Turkey,2017,medium,high,high,medium,low,low,medium,low,medium,medium,low,medium,1.6263285875320437,0.2900396883487701,medium,low
+Turkey,2018,medium,high,medium,medium,low,low,high,low,medium,medium,low,medium,2.1461520195007324,0.4138604998588562,medium,low
+Turkey,2019,medium,high,medium,medium,low,low,medium,low,high,medium,low,medium,2.3976671695709233,0.4921245872974396,medium,low
+Turkmenistan,2016,medium,medium,high,medium,medium,medium,medium,medium,medium,medium,low,low,1.154060959815979,0.196033775806427,medium,low
+Turkmenistan,2017,medium,medium,high,medium,medium,medium,medium,low,medium,medium,low,low,1.4321781396865845,0.2738836109638214,medium,low
+Turkmenistan,2018,low,medium,high,medium,high,high,medium,low,low,medium,low,low,1.1984765529632568,0.25937673449516296,medium,low
+Turkmenistan,2019,medium,medium,high,medium,high,high,medium,low,low,medium,low,low,1.6165198087692259,0.29529252648353577,medium,low
+Uganda,2016,low,low,medium,low,medium,medium,high,medium,high,high,medium,low,3.0954949855804443,0.7312317490577698,medium,high
+Uganda,2017,low,low,medium,low,medium,medium,high,medium,high,medium,medium,low,2.673379421234131,0.6682584881782532,medium,high
+Uganda,2018,low,low,medium,low,medium,medium,high,medium,high,medium,medium,low,3.033911943435669,0.70201575756073,medium,high
+Uganda,2019,medium,low,medium,low,medium,medium,high,medium,high,medium,medium,low,3.198946714401245,0.6465063691139221,medium,high
+Ukraine,2016,low,medium,high,medium,low,medium,high,low,low,low,low,low,2.041719675064087,0.5067948698997498,low,medium
+Ukraine,2017,low,medium,high,medium,low,medium,high,low,low,low,low,low,2.2553834915161133,0.5231612920761108,low,medium
+Ukraine,2018,low,medium,high,medium,low,medium,high,low,low,low,medium,low,2.111562490463257,0.4529394507408142,low,low
+Ukraine,2019,low,medium,high,medium,medium,medium,high,medium,low,low,low,low,2.18390154838562,0.464485764503479,low,medium
+United Arab Emirates,2016,high,high,medium,medium,high,medium,medium,high,low,medium,medium,high,2.145559549331665,0.31409385800361633,medium,medium
+United Arab Emirates,2017,high,high,medium,medium,high,high,medium,high,low,medium,medium,high,2.030040740966797,0.2883818447589874,medium,high
+United Arab Emirates,2018,high,high,medium,medium,high,medium,medium,high,medium,medium,medium,high,2.214761972427368,0.3353797793388367,medium,high
+United Arab Emirates,2019,high,high,high,medium,high,medium,medium,high,medium,medium,medium,high,2.308499813079834,0.3439986109733581,medium,high
+United Kingdom,2016,high,high,high,high,high,high,low,high,low,low,high,high,1.628819704055786,0.23867996037006375,low,low
+United Kingdom,2017,high,high,high,high,medium,high,low,high,low,medium,high,high,1.6154502630233765,0.22742335498332975,low,low
+United Kingdom,2018,high,high,high,high,high,high,low,high,low,medium,high,high,1.6989500522613523,0.2348742634057999,low,medium
+United Kingdom,2019,high,high,high,high,high,high,low,high,low,low,high,high,1.6271902322769165,0.22735166549682614,low,medium
+United States,2016,high,high,high,medium,medium,medium,medium,high,medium,low,high,high,1.9722027778625488,0.2898763716220856,medium,high
+United States,2017,high,high,high,medium,high,high,medium,high,medium,low,high,high,1.880687952041626,0.26898637413978577,medium,high
+United States,2018,high,high,high,medium,high,medium,medium,high,medium,low,high,high,2.1193740367889404,0.3079283833503723,medium,high
+United States,2019,high,high,high,medium,high,medium,medium,high,low,low,high,high,1.7896699905395508,0.2577400505542755,medium,high
+Uruguay,2016,medium,medium,high,medium,high,medium,medium,high,medium,medium,high,high,2.3182334899902344,0.3756362199783325,medium,medium
+Uruguay,2017,high,medium,high,medium,high,low,medium,high,medium,medium,high,high,2.2885987758636475,0.3612050414085388,medium,medium
+Uruguay,2018,high,high,high,medium,high,low,medium,high,medium,low,high,high,2.217172384262085,0.3479710817337036,medium,medium
+Uruguay,2019,high,high,high,medium,high,low,medium,high,low,medium,high,high,2.077847957611084,0.3148093819618225,medium,medium
+Uzbekistan,2016,medium,medium,high,medium,high,high,low,high,low,high,low,low,2.330657482147217,0.39552685618400574,low,medium
+Uzbekistan,2017,high,medium,high,medium,high,medium,low,high,low,high,low,low,2.3676888942718506,0.3687157332897186,low,medium
+Uzbekistan,2018,high,medium,high,medium,high,high,medium,high,low,high,low,low,2.4264378547668457,0.3910166025161743,low,medium
+Uzbekistan,2019,medium,medium,high,medium,high,high,medium,high,low,high,low,low,2.4374732971191406,0.3960763216018677,low,medium
+Venezuela,2016,low,medium,high,medium,low,low,high,medium,high,low,low,low,2.6492996215820312,0.655586302280426,high,medium
+Venezuela,2017,medium,medium,high,medium,low,low,high,medium,high,low,low,low,2.912966012954712,0.5744644403457642,high,medium
+Venezuela,2018,medium,medium,high,medium,low,low,high,high,high,low,low,low,2.891930341720581,0.5777316689491272,high,medium
+Venezuela,2019,medium,medium,high,medium,low,low,high,high,medium,low,low,low,3.033440113067627,0.5970394611358643,high,medium
+Vietnam,2016,medium,medium,high,medium,high,low,high,low,low,medium,medium,medium,1.7678194046020508,0.34921494126319885,medium,medium
+Vietnam,2017,medium,medium,medium,medium,high,medium,high,medium,low,medium,medium,medium,1.7508360147476196,0.33830758929252625,medium,medium
+Vietnam,2018,medium,medium,medium,medium,high,medium,high,medium,low,medium,medium,medium,1.6764484643936155,0.3165770173072815,medium,medium
+Vietnam,2019,medium,medium,medium,medium,high,low,high,high,low,medium,medium,medium,1.8895533084869385,0.3456003963947296,medium,medium
+Yemen,2016,low,low,medium,low,low,low,high,low,low,low,low,low,2.1055254936218257,0.550373375415802,medium,medium
+Yemen,2017,low,low,medium,low,low,low,high,low,medium,low,low,low,2.1785440444946294,0.6695877909660339,medium,low
+Yemen,2018,low,low,medium,low,low,low,high,low,medium,low,low,low,2.402007579803467,0.7856080532073975,medium,medium
+Yemen,2019,low,low,high,low,low,low,high,low,low,low,low,low,2.5823514461517334,0.6152978539466858,medium,medium
+Zambia,2016,low,low,medium,low,medium,medium,medium,medium,high,high,medium,medium,3.197226285934448,0.7354097962379456,high,high
+Zambia,2017,low,low,medium,low,high,medium,medium,medium,high,high,medium,low,2.650283098220825,0.6738960146903992,high,high
+Zambia,2018,low,low,medium,low,medium,medium,high,medium,medium,medium,medium,low,2.7834186553955083,0.6887113451957703,high,high
+Zambia,2019,low,low,low,low,medium,medium,high,medium,high,medium,medium,low,2.8601720333099365,0.864937424659729,high,medium
+Zimbabwe,2016,low,low,medium,low,medium,low,medium,medium,low,high,medium,low,2.7763631343841557,0.7432572245597839,medium,high
+Zimbabwe,2017,low,low,medium,low,medium,low,medium,high,low,high,low,low,2.6568479537963867,0.7302442789077759,medium,high
+Zimbabwe,2018,low,low,medium,low,medium,medium,high,medium,low,medium,medium,low,2.498695611953736,0.6909192800521851,medium,medium
+Zimbabwe,2019,low,low,medium,low,low,medium,high,medium,low,medium,low,low,2.646357774734497,0.9824893474578856,medium,high

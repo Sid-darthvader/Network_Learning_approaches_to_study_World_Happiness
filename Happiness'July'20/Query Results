@@ -1,0 +1,143 @@
+
+jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "High")
+> querygrain(jsex, nodes = "Healthy.life.expectancy.at.birth")$Healthy.life.expectancy.at.birth
+Healthy.life.expectancy.at.birth
+      low    medium      high 
+0.2709091 0.4872727 0.2418182 
+> jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "low")
+> querygrain(jsex, nodes = "Healthy.life.expectancy.at.birth")$Healthy.life.expectancy.at.birth
+Healthy.life.expectancy.at.birth
+      low    medium      high 
+0.7666667 0.2333333 0.0000000 
+
+################################################################################################
+
+jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "low")
+> querygrain(jsex, nodes = "Perceptions.of.corruption")$Perceptions.of.corruption
+Perceptions.of.corruption
+       low     medium       high 
+0.01406713 0.36073228 0.62520059 
+> jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "high")
+> querygrain(jsex, nodes = "Perceptions.of.corruption")$Perceptions.of.corruption
+Perceptions.of.corruption
+      low    medium      high 
+0.3380752 0.3094007 0.3525242 
+
+#################################################################################################
+
+jsex <- setEvidence(junction, nodes = "Confidence.in.national.government", states = "low")
+> querygrain(jsex, nodes = "Perceptions.of.corruption")$Perceptions.of.corruption
+Perceptions.of.corruption
+       low     medium       high 
+0.01410658 0.18799100 0.79790241 
+> jsex <- setEvidence(junction, nodes = "Confidence.in.national.government", states = "high")
+> querygrain(jsex, nodes = "Perceptions.of.corruption")$Perceptions.of.corruption
+Perceptions.of.corruption
+      low    medium      high 
+0.3008539 0.4843909 0.2147552 
+
+#################################################################################################
+
+jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "high")
+> querygrain(jsex, nodes = "Generosity")$Generosity
+Generosity
+      low    medium      high 
+0.3842105 0.5000000 0.1157895 
+> jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "low")
+> querygrain(jsex, nodes = "Generosity")$Generosity
+Generosity
+       low     medium       high 
+0.15333333 0.78000000 0.06666667 
+
+##################################################################################################
+
+jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "low")
+> querygrain(jsex, nodes = "Delivery.Quality")$Delivery.Quality
+Delivery.Quality
+   low medium   high 
+  0.82   0.18   0.00 
+> jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "high")
+> querygrain(jsex, nodes = "Delivery.Quality")$Delivery.Quality
+Delivery.Quality
+       low     medium       high 
+0.01578947 0.23157895 0.75263158 
+
+##################################################################################################
+
+jsex <- setEvidence(junction, nodes = "Delivery.Quality", states = "high")
+> querygrain(jsex, nodes = "Perceptions.of.corruption")$Perceptions.of.corruption
+Perceptions.of.corruption
+      low    medium      high 
+0.4406414 0.3073691 0.2519895 
+> jsex <- setEvidence(junction, nodes = "Delivery.Quality", states = "low")
+> querygrain(jsex, nodes = "Perceptions.of.corruption")$Perceptions.of.corruption
+Perceptions.of.corruption
+       low     medium       high 
+0.01122378 0.37147993 0.61729629 
+
+
+##################################################################################################
+jsex <- setEvidence(junction, nodes = "Healthy.life.expectancy.at.birth", states = "low")
+querygrain(jsex, nodes = "GINI.Household.Income.")$GINI.Household.Income.
+GINI.Household.Income.
+       low     medium       high 
+0.05888439 0.53577865 0.40533696 
+> jsex <- setEvidence(junction, nodes = "Healthy.life.expectancy.at.birth", states = "high")
+> querygrain(jsex, nodes = "GINI.Household.Income.")$GINI.Household.Income.
+GINI.Household.Income.
+       low     medium       high 
+0.50361620 0.44933292 0.04705088 
+
+##################################################################################################
+
+jsex <- setEvidence(junction, nodes = "GINI.Household.Income.", states = "high")
+> querygrain(jsex, nodes = "Healthy.life.expectancy.at.birth")$Healthy.life.expectancy.at.birth
+Healthy.life.expectancy.at.birth
+       low     medium       high 
+0.64920861 0.28352452 0.06726687 
+> jsex <- setEvidence(junction, nodes = "GINI.Household.Income.", states = "low")
+> querygrain(jsex, nodes = "Healthy.life.expectancy.at.birth")$Healthy.life.expectancy.at.birth
+Healthy.life.expectancy.at.birth
+       low     medium       high 
+0.05450545 0.52938776 0.41610679 
+
+
+##################################################################################################
+
+
+jsex <- setEvidence(junction, nodes = "Democratic.Quality", states = "high")
+> querygrain(jsex, nodes = "Log.GDP.per.capita")$Log.GDP.per.capita
+Log.GDP.per.capita
+        low      medium        high 
+0.005319149 0.132978723 0.861702128 
+> jsex <- setEvidence(junction, nodes = "Democratic.Quality", states = "low")
+> querygrain(jsex, nodes = "Log.GDP.per.capita")$Log.GDP.per.capita
+Log.GDP.per.capita
+       low     medium       high 
+0.39175258 0.51546392 0.09278351 
+
+
+##################################################################################################
+
+jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "low")
+> querygrain(jsex, nodes = "Democratic.Quality")$Democratic.Quality
+Democratic.Quality
+        low      medium        high 
+0.253333333 0.740000000 0.006666667 
+> jsex <- setEvidence(junction, nodes = "Log.GDP.per.capita", states = "high")
+> querygrain(jsex, nodes = "Democratic.Quality")$Democratic.Quality
+Democratic.Quality
+       low     medium       high 
+0.04736842 0.10000000 0.85263158 
+
+
+##################################################################################################
+
+
+
+
+
+
+
+
+
